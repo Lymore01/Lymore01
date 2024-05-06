@@ -1,54 +1,54 @@
-<!-- Welcome Message -->
-<h1 align="center">👋 Welcome to Your GitHub Profile</h1>
+<h2 align="left">Hi 👋! My name is Kelly and I'm a Full-Stack developer, from Kenya</h2>
 
-<p align="center">
-  <img src="images/banner.gif" alt="Banner" width="100%">
-</p>
+###
 
-<!-- About Me -->
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Hi there! I'm [Your Name], a passionate MERN stack developer. I love building futuristic web applications that push the boundaries of technology.
+###
 
-<!-- Skills -->
-## Skills
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- **Frontend**: React.js, Redux, HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express.js, MongoDB
-- **Deployment**: Heroku, Netlify, Vercel
-- **Testing**: Jest, Enzyme, React Testing Library
-- **Version Control**: Git, GitHub
-- **Others**: RESTful APIs, GraphQL, Webpack
+###
 
-<!-- Projects -->
-## Featured Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby logo" />
+</div>
 
-### [Project Name 1](https://github.com/your_username/project1)
-A brief description of the project.
 
-![Project 1](images/project1.png)
+###
 
-### [Project Name 2](https://github.com/your_username/project2)
-A brief description of the project.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-![Project 2](images/project2.png)
+###
 
-### [Project Name 3](https://github.com/your_username/project3)
-A brief description of the project.
+<br clear="both">
 
-![Project 3](images/project3.png)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<!-- Contact -->
-## Connect With Me
-
-Feel free to connect with me on these platforms:
-
-- GitHub: [Your GitHub Profile](https://github.com/your_username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your_profile)
-- Portfolio: [Your Portfolio Website](https://your_portfolio.com)
-
-<!-- Footer -->
-<footer>
-  <p align="center">Made with ❤️ by [Your Name]</p>
-</footer>
-
+###
