@@ -1,4 +1,4 @@
-<h4 align="left">Yo! 🎸 Kelly in the house, your JavaScript Fullstack Rockstar from Kenya! 🤘 Let's jam on some code! 🎶💻</h4>
+<h2 align="left">Yo! 🎸 Kelly in the house, your JavaScript Fullstack Rockstar from Kenya! 🤘 Let's jam on some code! 🎶💻</h2>
 
 ###
 
