@@ -48,18 +48,6 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lymore01/Lymore01/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31bldr7knh457sxaqqmfq5dkoxmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bldr7knh457sxaqqmfq5dkoxmy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
