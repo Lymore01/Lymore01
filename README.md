@@ -11,29 +11,79 @@
 ###
 <h2 align="left" >Favorite Tech</h2>
 > Tools of trade
-<div align="start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-</div>
+<div style={padding:"20px}></div>
+<table align="center">
+  <tr>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb logo" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="express logo" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react logo" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs logo" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript logo" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript logo" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5 logo" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3 logo" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="python logo" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="flask logo" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="ruby logo" />
+      </a>
+      <br>Ruby
+    </td>
+  </tr>
+</table>
 
 
 ###
