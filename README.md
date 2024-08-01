@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lymore01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="start" height="150" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" />
 
 ###
 <h2 align="left" >Favorite Tech</h2>
