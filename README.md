@@ -12,7 +12,8 @@
 <img align="start" height="150" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" />
 
 ###
-
+<h2 align="left" >Favorite Tech</h2>
+> Tools of trade
 <div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -36,6 +37,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
 </div>
+
+
+###
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wamaithanyamu/wamaithanyamu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wamaithanyamu/wamaithanyamu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wamaithanyamu/wamaithanyamu/output/github-contribution-grid-snake.svg">
+  
+</picture>
 
 
 
