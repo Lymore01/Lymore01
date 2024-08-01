@@ -11,8 +11,8 @@
 ###
 <h2 align="left" >Favorite Tech</h2>
 > Tools of trade
-<div style={padding:"20px}></div>
-<table align="center">
+
+<table align="start">
   <tr>
     <td align="center" width="144">
       <a >
