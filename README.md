@@ -10,7 +10,9 @@
 
 ###
 <h2 align="left" >Favorite Tech</h2>
+<br>
 > Tools of trade
+<br>
 
 <table align="start">
   <tr>
