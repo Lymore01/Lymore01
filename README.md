@@ -56,15 +56,15 @@
   <tr>
     <td align="center" width="144">
       <a >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html5 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="html5 logo" />
       </a>
-      <br>HTML5
+      <br>Tailwind CSS
     </td>
     <td align="center" width="144">
       <a >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css3 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="css3 logo" />
       </a>
-      <br>CSS3
+      <br>Fast API
     </td>
     <td align="center" width="144">
       <a >
