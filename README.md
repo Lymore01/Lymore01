@@ -56,7 +56,7 @@
   <tr>
     <td align="center" width="144">
       <a >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="html5 logo" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" width="48" height="48" alt="html5 logo" />
       </a>
       <br>Tailwind CSS
     </td>
