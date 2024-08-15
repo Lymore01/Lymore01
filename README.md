@@ -34,6 +34,12 @@
       </a>
       <br>React
     </td>
+     <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" width="48" height="48" alt="react logo" />
+      </a>
+      <br>React
+    </td>
     <td align="center" width="144">
       <a >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs logo" />
