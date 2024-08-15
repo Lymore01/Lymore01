@@ -36,9 +36,9 @@
     </td>
      <td align="center" width="144">
       <a >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" width="48" height="48" alt="react logo" />
+        <img src="https://www.cdnlogo.com/logos/n/80/next-js.svg" width="48" height="48" alt="react logo" />
       </a>
-      <br>React
+      <br>Next js
     </td>
     <td align="center" width="144">
       <a >
