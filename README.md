@@ -86,9 +86,9 @@
     </td>
     <td align="center" width="144">
       <a >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="ruby logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="48" height="48" alt="elixir logo" />
       </a>
-      <br>Ruby
+      <br>Elixir
     </td>
   </tr>
 </table>
