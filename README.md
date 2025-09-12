@@ -90,6 +90,12 @@
       </a>
       <br>Elixir
     </td>
+    <td align="center" width="144">
+      <a >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" width="48" height="48" alt="elixir logo" />
+      </a>
+      <br>Phoenix
+    </td>
   </tr>
 </table>
 
