@@ -16,7 +16,7 @@
 
 ---
 ## 0x00 <span style="color: blue !important;">&gt;</span> Tools Of Trade
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,supabase,docker,redis,elixir,nodejs,express,fastapi,python,flask,js,ts,react,nextjs,tailwind,vite,vitest,jest,nginx,bash,pnpm&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,supabase,docker,redis,prisma,elixir,nodejs,express,fastapi,python,flask,js,ts,react,nextjs,tailwind,vite,vitest,jest,nginx,bash,pnpm&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 
